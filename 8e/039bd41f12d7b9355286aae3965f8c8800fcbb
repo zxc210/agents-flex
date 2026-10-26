@@ -1,0 +1,21 @@
+agents-flex-observability/agents-flex-observability-otel/pom.xml
+  s_f7ad0f2d232f1c::t_7f5705d6c49f14 1-47
+agents-flex-observability/pom.xml
+  s_f7ad0f2d232f1c::t_a283ff13b3d31d 18
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.51-trip",
+  "base_commit_sha": "8e039bd41f12d7b9355286aae3965f8c8800fcbb",
+  "prompts": {},
+  "sessions": {
+    "s_f7ad0f2d232f1c": {
+      "agent_id": {
+        "tool": "kiro-desktop",
+        "id": "sess_b1aa15d7-1210-4a31-a087-221130e58feb",
+        "model": "auto"
+      },
+      "human_author": "zxc210 <2530198724@qq.com>"
+    }
+  }
+}

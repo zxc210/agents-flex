@@ -1,0 +1,21 @@
+agents-flex-observability/agents-flex-observability-otel/src/main/java/com/agentsflex/observability/otel/OtelAttributeNames.java
+  s_f7ad0f2d232f1c::t_dd53377f518262 1-36
+agents-flex-observability/agents-flex-observability-otel/src/main/java/com/agentsflex/observability/otel/OpenTelemetryAgentEventListener.java
+  s_f7ad0f2d232f1c::t_7705084358fa58 1-320
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.51-trip",
+  "base_commit_sha": "9e11d171b3a5b1c219572c6683fbd47f294fd1d5",
+  "prompts": {},
+  "sessions": {
+    "s_f7ad0f2d232f1c": {
+      "agent_id": {
+        "tool": "kiro-desktop",
+        "id": "sess_b1aa15d7-1210-4a31-a087-221130e58feb",
+        "model": "auto"
+      },
+      "human_author": "zxc210 <2530198724@qq.com>"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+agents-flex-observability/agents-flex-observability-otel/src/test/java/com/agentsflex/observability/otel/OpenTelemetryAgentEventListenerTest.java
+  s_f7ad0f2d232f1c::t_73cc3681f5e7c3 1-194
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.51-trip",
+  "base_commit_sha": "007c652617c0fcc6f5daa896e30211156b46ca58",
+  "prompts": {},
+  "sessions": {
+    "s_f7ad0f2d232f1c": {
+      "agent_id": {
+        "tool": "kiro-desktop",
+        "id": "sess_b1aa15d7-1210-4a31-a087-221130e58feb",
+        "model": "auto"
+      },
+      "human_author": "zxc210 <2530198724@qq.com>"
+    }
+  }
+}
